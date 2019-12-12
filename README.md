@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+<h1>Introduction</h1>
+<p>How does a real life phenomenon end up taking place? There must be multiple causes. For certain problems that the major causes can be narrowed out, we can select those variables and measure how much influence each variables have on the result. This is the main purpose of regression. This project deals with the data used to predict the number of indie-film audiences.</p>
 
-You can use the [editor on GitHub](https://github.com/jongwonIee/multid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt text][2D-4variate]
+![alt text][3D-5variate]
+![alt text][tsne-grade]
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jongwonIee/multid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[2D-4variate]: https://github.com/jongwonIee/multi-dimensional-visualization-with-python/blob/master/img/2D-4variate.png?raw=true "2D-4variate"
+[3D-5variate]: https://github.com/jongwonIee/multi-dimensional-visualization-with-python/blob/master/img/3D-5variate.png?raw=true "2D-4variate"
+[tsne-grade]: https://github.com/jongwonIee/multi-dimensional-visualization-with-python/blob/master/img/tsne-grade.png?raw=true "tsne-grade"
